@@ -3,6 +3,13 @@
   background-color: #d0f0cd;
 }
 
+.feb {
+  background-color: aquamarine;
+  border-radius: 14px;
+  padding: 0 10px;
+  font-weight: bold;
+}
+
 #gallery {
   background-color: #d0f0cd;
 }
